@@ -31,5 +31,5 @@ This is the first project in the ALX Higher Level Programming series, focusing o
 
 ## Author
 
-- **[AMAKALU VITALIS]**
+- **AMAKALU VITALIS**
 
