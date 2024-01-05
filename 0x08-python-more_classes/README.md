@@ -1,14 +1,14 @@
-Python - More Classes and Objects
+##Python - More Classes and Objects
 In this project, I, Amakalu Vitalis, continue to practice object-oriented programming in Python. Throughout this project, I delve into advanced concepts such as class methods, static methods, class vs. instance attributes, and the utilization of special methods like __str__ and __repr__.
 
 Feel free to reach out to me at amakaluvitalis202@gmail.com for any queries or collaboration.
 
-Tests :heavy_check_mark:
+##Tests :heavy_check_mark:
 tests: This folder contains test files, originally provided by Holberton School, and now tailored to fit the scope of this project.
 Tasks :page_with_curl:
 Here's an overview of the tasks I've completed in this project:
 
-0. Simple rectangle
+##0. Simple rectangle
 
 0-rectangle.py: An empty Python class that defines a rectangle.
 1. Real definition of a rectangle
