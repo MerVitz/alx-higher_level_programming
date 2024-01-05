@@ -1,71 +1,44 @@
-# Python - More Classes and Objects
+Python - More Classes and Objects
+In this project, I, Amakalu Vitalis, continue to practice object-oriented programming in Python. Throughout this project, I delve into advanced concepts such as class methods, static methods, class vs. instance attributes, and the utilization of special methods like __str__ and __repr__.
 
-In this project, I continued to practice object-oriented programming in Python. I learned about class methods, static methods, class vs instance attributes, andbhow to use the special `__str__` and `__repr__` methods.
+Feel free to reach out to me at amakaluvitalis202@gmail.com for any queries or collaboration.
 
-## Tests :heavy_check_mark:
+Tests :heavy_check_mark:
+tests: This folder contains test files, originally provided by Holberton School, and now tailored to fit the scope of this project.
+Tasks :page_with_curl:
+Here's an overview of the tasks I've completed in this project:
 
-* [tests](./tests): Folder of test files. Provided by Holberton School.
+0. Simple rectangle
 
-## Tasks :page_with_curl:
+0-rectangle.py: An empty Python class that defines a rectangle.
+1. Real definition of a rectangle
 
-* **0. Simple rectangle**
-  * [0-rectangle.py](./0-rectangle.py): Empty Python class that defines a rectangle.
+1-rectangle.py: This Python class defines a rectangle with private instance attributes width and height, and their respective property getters and setters.
+2. Area and Perimeter
 
-* **1. Real definition of a rectangle**
-  * [1-rectangle.py](./1-rectangle.py): Python class that defines a rectangle. Builds on [0-rectangle.py](./0-rectangle.py) with:
-    * Private instance attribute `width`.
-    * Property getter `def width(self):` to get `width`.
-    * Property setter `def width(self, value):` to set `width`.
-    * Private instance attribute `height`.
-    * Property getter `def height(self):` to get `height`.
-    * Property setter `def height(self, value):` to set `height`.
-    * Instantiation with optional `width` and `height`: `def __init(self,   width=0, height=0):`
-  * If either of `width` or `height` is not an integer, a `TypeError` is raised with the message `width must be an integer` or `height must be an integer`.
-  * If either of `width` or `height` is less than `0`, a `ValueError` is raised with the message `width must be >= 0` or `height must be >= 0`.
+2-rectangle.py: Enhancing the rectangle class to include methods for calculating its area and perimeter.
+3. String representation
 
-* **2. Area and Perimeter**
-  * [2-rectangle.py](./2-rectangle.py): Python class that defines a rectangle. Builds on [1-rectangle.py](./1-rectangle.py) with:
-    * Public instance method `def area(self):` that returns the area of the rectangle.
-    * Public instance attribute `def perimeter(self):` that returns the permiter of the rectangle (if either of `width` or `height` equals `0`, the perimeter is `0`).
+3-rectangle.py: A string representation of the rectangle using the # character.
+4. Eval is magic
 
-* **3. String representation**
-  * [3-rectangle.py](./3-rectangle.py): Python class that defines a rectangle. Builds on [2-rectangle.py](./2-rectangle.py) with:
-    * Special method `__str__` to print the rectangle with the `#` character (if either of `width` or `height` equals `0`, the method returns an empty
-    string.).
+4-rectangle.py: Incorporating the __repr__ method for a formal string representation of the rectangle.
+5. Detect instance deletion
 
-* **4. Eval is magic**
-  * [4-rectangle.py](./4-rectangle.py): Python class that defines a rectangle. Builds on [3-rectangle.py](./3-rectangle.py) with:
-    * Special method `__repr__` to return a string representation of the rectangle.
+5-rectangle.py: Implementing the __del__ method that prints a message upon the deletion of a Rectangle instance.
+6. How many instances
 
-* **5. Detect instance deletion**
-  * [5-rectangle.py](./5-rectangle.py): Python class that defines a rectangle. Builds on [4-rectangle.py](./4-rectangle.py) with:
-    * Special method `__del__` that prints the message `Bye rectangle...` when a `Rectangle` is deleted.
+6-rectangle.py: A class attribute number_of_instances to keep track of the number of Rectangle instances.
+7. Change representation
 
-* **6. How many instances**
-  * [6-rectangle.py](./6-rectangle.py): Python class that defines a rectangle. Builds on [5-rectangle.py](./5-rectangle.py) with:
-    * Public class attribute `number_of_instances` that is initialized to `0`, incremented for each new instantiation, and decremened for each instance deletion.
+7-rectangle.py: Introducing a class attribute class_symbol for flexible string representation.
+8. Compare rectangles
 
-* **7. Change representation**
-  * [7-rectangle.py](./7-rectangle.py): Python class that defines a rectangle. Builds on [6-rectangle.py](./6-rectangle.py) with:
-    * Public class attribute `class_symbol` that is initialized to `#` but can be any type - used as the symbol for string representation.
+8-rectangle.py: A static method for comparing the area of two rectangles.
+9. A square is a rectangle
 
-* **8. Compare rectangles**
-  * [8-rectangle.py](./8-rectangle.py): Python class that defines a rectangle. Builds on [7-rectangle.py](./7-rectangle.py) with:
-    * Static method `def bigger_or_equal(rect_1, rect_2):` that returns the rectangle with the greater area (returns `rect_1` if both areas are equal).
-    * If either of `rect_1` or `rect_2` is not a `Rectangle` instance, a `TypeError` is raised with the message `rect_1 must be an instance of Rectangle` or `rect_2 must be an instance of Rectangle`.
+9-rectangle.py: A class method to create a square as a Rectangle instance.
+10. N Queens
 
-* **9. A square is a rectangle**
-  * [9-rectangle.py](./9-rectangle.py): Python class that defines a rectangle. Builds on [8-rectangle.py](./8-rectangle.py) with:
-    * Class method `def square(cls, size=0):` that returns a new `Rectangle` instance with `width == height == size`.
 
-* **10. N Queens**
-
- ![alt text](http://www.crestbook.com/files/Judit-photo1_602x433.jpg)
- 
-  * [101-nqueens.py](./101-nqueens.py): Python program that solves the [N queens puzzle](https://en.wikipedia.org/wiki/Eight_queens_puzzle).
-  * Usage: `./101-nqueens.py N`
-  * Determines all possible solutions for placing N non-attacking queens on an NxN chessboard.
-  * Exactly two arguments must be provided. Otherwise, the program prints `Usage: nqueens N` and exits with the status `1`.
-  * If the provided `N` is not an integer, the program prints `N must be a number` and exits with the status `1`.
-  * If the provided `N` is less than `4`, the program prints `N must be at least 4` and exits with the status `1`.
-  * Solutions are printed one per line in the format `[[r, c], [r, c], [r, c], [r, c]]` where `r` and `c` represent the row and column, respectively, where a queen must be placed.
+101-nqueens.py: A Python program that solves the N queens puzzle, with conditions for the input and a clear display of solutions.
