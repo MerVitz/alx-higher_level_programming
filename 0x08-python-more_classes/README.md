@@ -44,6 +44,6 @@ Here's an overview of the tasks I've completed in this project:
 
 * **10. N Queens**
 
- ![Software Engineer Queen](https://example.com/new-queen-image.jpg)
+ ![Software Engineer Queen](./queen.png)
  
   * [101-nqueens.py](./101-nqueens.py): A Python program that solves the N queens puzzle, with conditions for the input and a clear display of solutions.
