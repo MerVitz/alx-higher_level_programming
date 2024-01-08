@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-magic_string = __import__('100-magic_string').magic_string
+matrix_mul = __import__('100-matrix_mul').matrix_mul
 
-for i in range(10):
-    print(magic_string())
+print(matrix_mul([[1, 2], [3, 4]], [[1, 2], [3, 4]]))
+print(matrix_mul([[1, 2]], [[3, 4], [5, 6]]))

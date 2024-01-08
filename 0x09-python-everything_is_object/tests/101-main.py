@@ -1,9 +1,5 @@
 #!/usr/bin/python3
-LockedClass = __import__('101-locked_class').LockedClass
+lazy_matrix_mul = __import__('101-lazy_matrix_mul').lazy_matrix_mul
 
-lc = LockedClass()
-lc.first_name = "John"
-try:
-    lc.last_name = "Snow"
-except Exception as e:
-    print("[{}] {}".format(e.__class__.__name__, e))
+print(lazy_matrix_mul([[1, 2], [3, 4]], [[1, 2], [3, 4]]))
+print(lazy_matrix_mul([[1, 2]], [[3, 4], [5, 6]]))
