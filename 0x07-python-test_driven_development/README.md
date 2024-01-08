@@ -81,4 +81,11 @@ Prototypes for functions written in this project:
   * Identical in function to [100-matrix_mul.py](./100-matrix_mul.py).
 
 * **8. CPython #3: Python Strings**
-  * [102-python.c](./102-python.c): C function that prints basic information about Python string objects.
+  * [102-python.c](./102-python.c): C function that prints basic information about Python string objects.## Author
+
+## Author
+**Amakalu Vitalis**
+
+- Email: [amakaluvitalis202@gmail.com](mailto:amakaluvitalis202@gmail.com)
+
+  
