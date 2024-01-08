@@ -1,0 +1,161 @@
+[33mcommit 8666689dee3e526b3acdadf492d46d063aa4ee7b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Amakalu Vitalis <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 13:18:28 2024 +0300
+
+    Delete 0x09-python-everything_is_object/5-text_indentation.py
+
+[33mcommit 242ab52157fceb3bbb190a563e57ca868111e811[m
+Author: Amakalu Vitalis <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 13:18:23 2024 +0300
+
+    Delete 0x09-python-everything_is_object/3-say_my_name.py
+
+[33mcommit 21495d0dc1f432fb8a6821ad71f418e99229564a[m
+Author: Amakalu Vitalis <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 13:18:16 2024 +0300
+
+    Delete 0x09-python-everything_is_object/4-print_square.py
+
+[33mcommit 307490ed1d02edb982058886f34dc789db0211d7[m
+Author: Amakalu Vitalis <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 13:18:08 2024 +0300
+
+    Delete 0x09-python-everything_is_object/2-matrix_divided.py
+
+[33mcommit b83b131db699650f024901c1d62c9d6a6a6c761c[m
+Author: Amakalu Vitalis <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 13:18:01 2024 +0300
+
+    Delete 0x09-python-everything_is_object/102-python.c
+
+[33mcommit fe250c7868b22dc62e0453cbd2915af14827443d[m
+Author: Amakalu Vitalis <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 13:17:49 2024 +0300
+
+    Delete 0x09-python-everything_is_object/101-lazy_matrix_mul.py
+
+[33mcommit a147fad187221766f64f59a0469ab42a589a4af1[m
+Author: Amakalu Vitalis <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 13:17:43 2024 +0300
+
+    Delete 0x09-python-everything_is_object/100-matrix_mul.py
+
+[33mcommit 841c8329bb6f62881a37dea3ab63e1415380d31f[m
+Author: Amakalu Vitalis <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 13:17:38 2024 +0300
+
+    Delete 0x09-python-everything_is_object/0-add_integer.py
+
+[33mcommit 7b8c372b7dc97c061fe2aecfe149eb4015cfbd60[m
+Author: Amakalu Vitalis <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 13:04:31 2024 +0300
+
+    Delete 0x09-python-everything_is_object/6-max_integer.py
+
+[33mcommit 26b9a7474e24e5cc8fc7a2b49dec5359a0ca0c25[m
+Author: Amakalu Vitalis <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 13:02:55 2024 +0300
+
+    Update README.md
+
+[33mcommit 517dcd8c1fb30246236f11c2a441b8c92ae6fc86[m
+Author: Amakalu Vitalis <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 13:00:09 2024 +0300
+
+    Delete 0x09-python-everything_is_object/tests/3-main.py
+
+[33mcommit 3795f23b682c6da457bd04e17770d0679333fc9e[m
+Author: Amakalu Vitalis <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 13:00:02 2024 +0300
+
+    Delete 0x09-python-everything_is_object/tests/3-say_my_name.txt
+
+[33mcommit c49af78f80fd06805e7b9c2cd4d5c8ff6b26858e[m
+Author: Amakalu Vitalis <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 12:59:55 2024 +0300
+
+    Delete 0x09-python-everything_is_object/tests/4-main.py
+
+[33mcommit 600e89d5b73fb2102f70f5b75133c8165a204ef8[m
+Author: Amakalu Vitalis <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 12:59:41 2024 +0300
+
+    Delete 0x09-python-everything_is_object/tests/4-print_square.txt
+
+[33mcommit 842ae431bcd428182d62347dd54779db336c4e21[m
+Author: Amakalu Vitalis <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 12:59:33 2024 +0300
+
+    Delete 0x09-python-everything_is_object/tests/5-main.py
+
+[33mcommit 941193505c412ef9feb06b368b28d6e1d5c71c97[m
+Author: Amakalu Vitalis <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 12:59:24 2024 +0300
+
+    Delete 0x09-python-everything_is_object/tests/5-text_indentation.txt
+
+[33mcommit 49d05d7c0e50b23643334c6a0182aa965e19d889[m
+Author: Amakalu Vitalis <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 12:58:59 2024 +0300
+
+    Delete 0x09-python-everything_is_object/tests/6-max_integer_test.py
+
+[33mcommit 8b2f9f78f8112261d3c34c1e4241a83c1622f051[m
+Author: Amakalu Vitalis <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 12:58:49 2024 +0300
+
+    Delete 0x09-python-everything_is_object/tests/2-matrix_divided.txt
+
+[33mcommit 08f95e3d5c130dd460ed8f99f5789af6cf568681[m
+Author: Amakalu Vitalis <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 12:58:35 2024 +0300
+
+    Delete 0x09-python-everything_is_object/tests/2-main.py
+
+[33mcommit 13200d48d8b76a26bf6e9e18de4f45de583851c1[m
+Author: Amakalu Vitalis <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 12:58:28 2024 +0300
+
+    Delete 0x09-python-everything_is_object/tests/101-main.py
+
+[33mcommit ea8b0d121f36acb32ab7a518ad61a1fa3eda262e[m
+Author: Amakalu Vitalis <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 12:58:21 2024 +0300
+
+    Delete 0x09-python-everything_is_object/tests/101-lazy_matrix_mul.txt
+
+[33mcommit c15ceb89b2026f71dc45ee731d472d262c233f8d[m
+Author: Amakalu Vitalis <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 12:58:16 2024 +0300
+
+    Delete 0x09-python-everything_is_object/tests/100-matrix_mul.txt
+
+[33mcommit a69aa07d6d5e915e5df774bf89d1f5f9e8f2d829[m
+Author: Amakalu Vitalis <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 12:58:05 2024 +0300
+
+    Delete 0x09-python-everything_is_object/tests/100-main.py
+
+[33mcommit 8053cbd842eb13d64c81894e85321df9ecde1dd1[m
+Author: Amakalu Vitalis <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 12:55:33 2024 +0300
+
+    Delete 0x09-python-everything_is_object/tests/0-main.py
+
+[33mcommit 1f053c734d749e6ab9f956b3db2e7e037333dada[m
+Author: Amakalu Vitalis <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 12:55:13 2024 +0300
+
+    Delete 0x09-python-everything_is_object/tests/0-add_integer.txt
+
+[33mcommit ca5c606bf12a515ac61cd98cead151a7677c810f[m
+Author: Amakalu Vitalis <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 12:39:10 2024 +0300
+
+    Add files via upload
+
+[33mcommit 71e97cfceb2329696922dc6e1c8da649bc89e5be[m
+Author: MerVitz <amakaluvitalis202@gmail.com>
+Date:   Mon Jan 8 01:37:03 2024 -0800
+
+    Havusye
