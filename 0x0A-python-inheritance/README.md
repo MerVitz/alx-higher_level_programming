@@ -59,5 +59,5 @@ integer_validator.
 * Instantiation with width and height: def __init__(self, width, height):
 
 
-##Author: Amakalu Vitalis
-##Email: amakaluvitalis202@gmail.com
+#Author: `Amakalu Vitalis`
+#Email: `amakaluvitalis202@gmail.com`
