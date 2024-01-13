@@ -82,6 +82,6 @@ Prototypes for functions written in this project:
   <status code> <file size>`
 
 # Author
-* *Name** `Amakalu Vitalis`
-* *Email** `amakaluvitalis202@gmail.com`
+* *Name* `Amakalu Vitalis`
+* *Email* `amakaluvitalis202@gmail.com`
 
