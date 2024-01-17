@@ -47,6 +47,8 @@ Represents the "base" class for all other classes in the project. Includes:
   * Instantiates an object with the attributes given in `**dictionary`.
 * Class method `def load_from_file(cls):` that returns a list of objects instantiated from a JSON file.
   * Reads from the JSON file `<cls name>.json` (ie. `Rectangle.json`)
+ 
+
   * If the file does not exist, the function returns an empty list.
 * Class method `def save_to_file_csv(cls, list_objs):` that writes the CSV serialization of a list of objects to a file.
   * The parameter `list_objs` is expected to be a list of `Base`-inherited instances.
@@ -98,6 +100,11 @@ Represents a square. Inherits from `Rectangle` with:
     * 2nd: `size`
     * 3rd: `x`
     * 4th: `y`
-  * `**kwargs` is expected to be a double pointer to a dictoinary of new key/value attributes to update the `Square` with.
+  * `**kwargs` is expected to be a double pointer to a dictionary of new key/value attributes to update the `Square` with.
   * `**kwargs` is skipped if `*args` exists.
 * Public method `def to_dictionary(self):` that returns the dictionary representation of a `Square`.
+
+## Author
+
+Amakalu Vitalis
+Email: amakaluvitalis202@gmail.com
