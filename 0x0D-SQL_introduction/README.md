@@ -1,6 +1,5 @@
 # SQL - Introduction
-
-In this project, we began working on relational databases. I started practising introductory SQL data definitions and data manipulation language, making subqueries, and using functions.
+This is the project where we have just started working on the Database side, using Structured Query Language (SQL). Data manipulation using DML, definign Strucre of this databse using DDL.
 
 ## Tasks :page_with_curl:
 
@@ -30,7 +29,7 @@ In this project, we began working on relational databases. I started practising 
   `first_table`.
 
 * **7. First add**
-  * [7-insert_value.sql](./7-insert_value.sql): MySQL script that inserts a new row in the table `first_table`.
+  * [7-insert_value.sql](./7-insert_value.sql): MySQL script that inserts a new row in the table `first_table`
   * Description:
     * `id` = `89`
     * `name` = `Best School`
